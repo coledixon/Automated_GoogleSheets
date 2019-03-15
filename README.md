@@ -3,7 +3,7 @@
 
 - functionality designed for use in GoogleSheets to calculate value / comps over a given week.
 
-- automated calcs based on pivot factors for LOCAL or ONLINE completions.
+- automated calcs based on pivot factors for LOCAL (L) or ONLINE (O) completions.
 
 - when a completion is recorded with a pivot factor, the completion total will automatically increment for the assigned pivot and the total for the day / week will recalc.
 
