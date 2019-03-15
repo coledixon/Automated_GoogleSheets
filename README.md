@@ -1,5 +1,5 @@
 # DEN_googlesheets
-### built by: Cole Dixon for Tech Academy internal use {utilizing GoogleSheets internal functions / methods}
+#### built by: Cole Dixon for Tech Academy internal use {utilizing GoogleSheets internal functions / methods}
 
 - functionality designed for use in GoogleSheets to calculate value / comps over a given week.
 
